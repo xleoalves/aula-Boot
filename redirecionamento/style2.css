@@ -1,0 +1,44 @@
+body{
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/3273883-onda-azul-fundo-papel-de-parede-gratis-vetor.jpg);
+    background-size: cover;
+}
+
+.cards{
+    display: flex;
+    gap: 6.8rem;
+    margin-top: 2%;
+    margin-left: 1%;
+}
+
+.inicial img{
+    margin-top: 1.5rem;
+    margin-left: 27%;
+    width: 900px;
+    border-radius: 5rem;
+}
+
+.card-body {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  body{
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/3273883-onda-azul-fundo-papel-de-parede-gratis-vetor.jpg);
+    background-size: cover;
+}
+
+.cards{
+    display: flex;
+    gap: 6.8rem;
+    margin-top: 2%;
+    margin-left: 1%;
+}
+.inicial h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.inicial p{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
